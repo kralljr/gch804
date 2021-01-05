@@ -1,0 +1,18 @@
+Package: gch804
+Title: Package for GMU GCH 804
+Description: R datasets and functions for GCH 804.
+Version: 0.1.0
+Authors@R: 
+    person(given = "Jenna",
+           family = "Krall",
+           role = c("aut", "cre"),
+           email = "jenna.krall@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr,
+    ggplot2,
+    magrittr
