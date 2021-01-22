@@ -2,11 +2,11 @@
 #'
 #' Limited data from Phase I of the SUPPORT study (Study to Understand Prognoses
 #' Preferences Outcomes and Risks of Treatment).
+#'
 #' Knaus WA, Harrell FE, Lynn J et al. (1995): The SUPPORT prognostic model: Objective estimates of survival for seriously ill hospitalized adults. Annals of Internal Medicine 122:191-203.
 #' Data obtained from http://biostat.mc.vanderbilt.edu/DataSets
 
 
-#'  The variables are:
 #'
 #' \itemize{
 #' 		\item age. Age in years
@@ -19,7 +19,7 @@
 #'
 #' @docType data
 #' @keywords datasets
-#' @format A dataframe with 654 rows and 6 variables
-#' @name fevdat10
+#' @format A dataframe with 651 rows and 5 variables
+#' @name support
 NULL
 
